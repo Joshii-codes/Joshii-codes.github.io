@@ -1,1 +1,51 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Joshi Yadav</title>
+<style>
+body{margin:0;background:#000;color:#fff;font-family:Arial}
+.wrap{max-width:400px;margin:auto}
+.header{padding:22px;display:flex;gap:16px;align-items:center}
+.ring{width:86px;height:86px;border-radius:50%;padding:3px;background:conic-gradient(#feda75,#fa7e1e,#d62976,#962fbf,#4f5bd5);display:flex;align-items:center;justify-content:center}
+.ring img{width:80px;height:80px;border-radius:50%;border:3px solid #000;display:block}
+.stats{display:flex;gap:22px;text-align:center;margin-left:auto}
+.stats b{display:block;font-size:18px}
+.name{padding:0 22px}
+.name h2{margin:0;font-size:19px}
+.bio{color:#aaa;font-size:13px;line-height:1.5;margin-top:6px}
+.live{margin:16px;background:#0a0a0a;border:1px solid #1e1e1e;border-radius:12px;padding:12px 14px;font-size:12px}
+.flex{margin:0 16px 16px;background:#111;border:1px solid #222;border-radius:12px;padding:14px;font-size:13px}
+.flex b{color:#ff3040}
+.btns{display:flex;gap:8px;padding:0 22px}
+.btns a{flex:1;text-align:center;background:#222;padding:11px;border-radius:8px;color:#fff;text-decoration:none;font-size:13px;font-weight:bold}
+.btns a:first-child{background:linear-gradient(45deg,#feda75,#d62976)}
+.posts{display:grid;grid-template-columns:1fr 1fr 1fr;gap:2px;margin-top:22px}
+.post{aspect-ratio:1;background:#0f0f0f;display:flex;align-items:center;justify-content:center;font-size:11px;color:#555}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="header">
+<a href="https://instagram.com/Joshi._ixovii"><div class="ring"><img src="https://github.com/Joshii-codes.png"></div></a>
+<div class="stats"><div><b>7+</b>projects</div><div><b>100%</b>phone</div><div><b>BCA</b>1st</div></div>
+</div>
+<div class="name">
+<h2>Joshi Yadav ✓</h2>
+<div class="bio">BCA Student | O Level Certified<br>Web Dev on Phone 📱</div>
+<p style="color:#0095f6;font-size:12px">@Joshi._ixovii</p>
+</div>
+<div class="live">🟢 @Joshi._ixovii • Online</div>
+<div class="flex">💎 <b>FLEX:</b> Sab laptop dhoondh rahe hain, mera portfolio already live hai.</div>
+<div class="btns">
+<a href="https://instagram.com/Joshi._ixovii">Instagram</a>
+<a href="https://github.com/Joshii-codes">GitHub</a>
+</div>
+<div class="posts">
+<div class="post">HTML</div><div class="post">CSS</div><div class="post">JS</div>
+<div class="post">PYTHON</div><div class="post">O LEVEL</div><div class="post">UNIQUE</div>
+</div>
+<p style="text-align:center;color:#444;font-size:10px;padding:20px">© JOSHI YADAV 2026</p>
+</div>
+</body>
+</html>
